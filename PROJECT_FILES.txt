@@ -1,0 +1,14 @@
+CMakeLists.txt
+README.md
+data/applications.txt
+data/candidates.txt
+data/jobs.txt
+src/dsa.h
+src/main.cpp
+src/mainwindow.cpp
+src/mainwindow.h
+src/matching.cpp
+src/matching.h
+src/models.h
+src/storage.cpp
+src/storage.h

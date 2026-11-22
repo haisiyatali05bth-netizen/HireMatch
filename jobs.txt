@@ -1,0 +1,4 @@
+1|Infosys|Software Developer|Chandigarh|0|cpp,dsa,sql
+2|TCS|Java Developer|Pune|0|java,dsa
+3|Startup X|Backend Developer|Remote|1|java,sql,python,spring boot
+4|Wipro|Web Developer|Mohali|0|html,css,javascript
